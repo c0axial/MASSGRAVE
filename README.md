@@ -26,7 +26,7 @@ Right now, the repository is very small and doesn't contain much information. As
 # Contribution
 If you wish to contribute to the project, do so through merge requests or contact any member of the MASSGRAVE group on GitLab.
 
-There is also a [Discord server](1) you can join if you have any questions or wish to discuss the project.
+There is also a [Discord server][1] you can join if you have any questions or wish to discuss the project.
 
 # Disclaimer
 This project is not affiliated with Microsoft Corporation.

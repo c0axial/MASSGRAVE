@@ -62,13 +62,13 @@ enabling:
 
 ## Possible Approaches
 ### SLC Substitution
-Because of GatherOsState utilizing [run-time dynamic linking](2) to load the 
+Because of GatherOsState utilizing [run-time dynamic linking][2] to load the 
 Software Licensing library (slc.dll) the library file can be substituted with
 a modified one by placing it in the same folder as the GatherOsState executable
 and appropriately renaming it.
 
 The only known implementation of this approach is loosely based on vyvojar's 
-slshim ([GitHub](3)) and still uses its name.
+slshim ([GitHub][3]) and still uses its name.
 
 ### Memory Hacking
 The memory hacking approach creates a suspended GatherOsState process by simply

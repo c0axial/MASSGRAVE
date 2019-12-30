@@ -82,7 +82,7 @@ Open Source, Script available in the MASSGRAVE group's repositories.
 
 ## Detection
 ### WIP
-> Can be detected by looking for abnormal quantities of error [0xC004F074](2) and similar ones in the event log.
+> Can be detected by looking for abnormal quantities of error [0xC004F074][2] and similar ones in the event log.
 > Also, the activation expiry date can be checked for abnormalities (>180 KMS activation days left) with `slmgr.vbs -xpr` (Not suitable for scripts, use WMI)
 
 [1]: https://en.wikipedia.org/wiki/Year_2038_Problem
